@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    gap: 70Px;
+    justify-content: center;
+   border: solid 1px;
+   padding: 18px;
+   margin-top: 10px;
+   width: 900px;
+   margin-left: 20%;
+}
+a{
+    text-decoration: none;
+    display: flex;
+}
+.landingimg{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 21.5%;
+}
