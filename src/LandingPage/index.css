@@ -3,17 +3,62 @@
     gap: 70Px;
     justify-content: center;
    border: solid 1px;
-   padding: 18px;
+   padding: 8px;
    margin-top: 10px;
-   width: 900px;
-   margin-left: 20%;
+   border: none;
+   width: 800px;
+   margin-left: 8.5%;
+
 }
 a{
     text-decoration: none;
     display: flex;
+    margin-top: 2%;
 }
 .landingimg{
-    width: 50%;
-    margin-left: 10%;
-    margin-right: 21.5%;
+    width: 75%;
+    margin-left: 5%;
+    margin-right: 22.5%;
+
+}
+button{
+    padding-left: 10%;
+    padding-right: 40%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 20px; 
+}
+/* .card{
+    border: solid 1px;
+    width: 270px;
+    /* padding: 40px; */
+    /* background-color:#758182 ; */
+  /* margin-left: 20px;
+} */ 
+
+.shop{
+    background-color: black;
+    color: azure;
+   padding: 1px;
+
+}
+.card {
+    border: solid 1px;
+    width: 270px;
+    background-color:#AAABA6;
+    margin-left: 20px;
+    position: absolute; 
+    top: 50%; 
+    left: 30%; 
+    transform: translate(-50%, -50%); 
+}
+.parent-container {
+    position: relative; 
+}
+.txt{
+    border: solid  1px;
+    width: 175px;
+    padding: 30px;
+  margin-left: 15px;
+    background-color:#C0C5C7 ;
 }
