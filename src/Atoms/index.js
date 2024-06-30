@@ -3,7 +3,7 @@ const ProductsCard=({image,title,price,categories})=>{
         <div>
             <img src={image} alt={`${title} profile`}/>
             <h2>{price}</h2>
-            <h2>{categories}</h2>
+            <h2>{category}</h2>
 
         </div>
     );
